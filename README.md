@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I’m Ngwoke Noble Tochukwu
 
-<!--
-**Nobleic/Nobleic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Engineer @ALX | Electrical Electronics Technology Education  
+🌍 Based in Enugu, Nigeria  
+🚀 Passionate about building interactive, accessible, and scalable web experiences.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+), HTML5, CSS3  
+- **Frameworks & Tools:** React, Tailwind CSS, Git/GitHub, VS Code  
+- **Currently Exploring:** TypeScript, Next.js  
+
+---
+
+## 🎯 What I’m Working On
+- Sharpening my **Front-End Engineering** skills with ALX  
+- Building portfolio-ready web projects  
+- Exploring opportunities for collaboration in open source & EdTech  
+
+---
+
+## 📫 Let’s Connect
+- [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- [Twitter/X](https://x.com/YOUR-HANDLE)  
+ 
+
+---
+
+⭐️ “Code is not just instructions for computers, it’s also a story we tell other developers.”
